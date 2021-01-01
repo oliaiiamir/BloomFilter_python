@@ -1,0 +1,3 @@
+# Bloom Filter
+Using this code you can download text and title of news (time.com) and make a Bloom Filter with text keywords
+and see if Bloom Filter contain any word that's in the title...
